@@ -1,0 +1,41 @@
+papers:
+
+  - title: "Robust Reading for Multi-Type Web Images challenge (MTWI)"
+    authors: "Jianshu Zhang, <b>Yixing Zhu</b>, Jun Du, Lirong Dai, Jiajia Wuy, Mingjun Cheny and Jinshui Hu"
+    venue: "ICPR'18"
+
+  - title: "Adaptive period embedding for representing oriented objects in aerial images"
+    authors: "<b>Yixing Zhu</b>, Jun Du, Xueqing Wu"
+    venue: "TGRS'20: IEEE Transactions on Geoscience and Remote Sensing."
+    paper_pdf: "/assets/publications/2022_flipfeed/paper.pdf"
+    selected: y
+
+  - title: "Rotated cascade R-CNN: A shape robust detector with coordinate regression"
+    authors: "<b>Yixing Zhu</b>, Chixiang Ma, Jun Du"
+    venue: "PR'19: Pattern Recognition."
+    paper_pdf: "/assets/publications/2021_dtox/paper.pdf"
+    selected: y
+
+  - title: "Sliding line point regression for shape robust scene text detection"
+    authors: "<b>Yixing Zhu</b>, Jun Du"
+    venue: "ICPR'18: International Conference on Pattern Recognition."
+    paper_pdf: "/assets/publications/2021_dtox/paper.pdf"
+    selected: y
+
+  - title: "Radical analysis network for zero-shot learning in printed Chinese character recognition"
+    authors: "Jianshu Zhang, <b>Yixing Zhu</b>, Jun Du, Lirong Dai"
+    venue: "ICME'18: IEEE International Conference on Multimedia and Expo"
+    paper_pdf: "/assets/publications/2021_social_catalysts/paper.pdf"
+    selected: n
+
+  - title: "Trajectory-based radical analysis network for online handwritten chinese character recognition"
+    authors: "Jianshu Zhang, <b>Yixing Zhu</b>, Jun Du, Lirong Dai"
+    venue: "ICPR'18: International Conference on Pattern Recognition"
+    paper_pdf: "/assets/publications/2021_balanced_inf_max/paper.pdf"
+    selected: n
+
+  - title: "Denseran for offline handwritten chinese character recognition"
+    authors: "Wenchao Wang, Jianshu Zhang, Jun Du, Zi-Rui Wang, <b>Yixing Zhu</b>"
+    venue: "ICFHR'18: International Conference on Frontiers in Handwriting Recognition"
+    paper_pdf: "/assets/publications/2021_balanced_inf_max/paper.pdf"
+    selected: n

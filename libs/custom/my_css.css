@@ -37,6 +37,10 @@ h4 {
   border-top: 1px solid #eee;
   padding: 4rem 0;
   margin-bottom: 0;}
+  .docs-section1 {
+    border-top: 2px solid #eee;
+    padding: 4rem 0;
+    margin-bottom: 0;}
 .footer {
   text-align: center;
   color: rgba(0, 0, 0, 0.4);
